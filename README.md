@@ -39,6 +39,10 @@ You have to create one folder named "FirstName_Roll". In that folder, you have t
 
 
 
+First question's code is pretty straightforward and I have only followed logic that was provided in github repo i.e. first creating public function which iss designed to take input and it also changes adress to one who is calling the function only if input that is  provided is a prime number which is also then checked by another function
+
+In second and third question it was similar to code that was done in the class i.e. creating classes according to our needs for adding deleting or modifying things. For understanding i saw a video on youtube for oops which gave mebetter understanding and the code is somewhat modified by chatgpt also because i was unable to do them totally by me because it was giving many compilation errors for the syntax like when to use pure, view and other things like that
+Rest for the logic it was pretty straightoforward i.e. provided in question itself only just we had to execute in the form of code
 
 
 
